@@ -1,0 +1,113 @@
+body
+{
+ color: #40514e;
+  margin: 0;
+  text-align: center;
+}
+.bottom-container
+{
+  background-color: #E4F9F5;
+
+}
+.cloud1
+{
+position: absolute;
+right: 400px;
+top: 100px;
+}
+.cloud2
+{
+position: absolute;
+left: 300px;
+top: 300px;
+
+}
+.pic
+{
+width: 15%;
+}
+h1
+{
+  line-height: 2    ;
+  color: #66bfbf;
+  margin: 0px;
+  font-size: 50px;
+  position: relative;
+  bottom: 100px;
+}
+h2
+{
+  color: #66bfbf;
+  font-size: 30px;
+}
+h3
+{
+  font-size: 30px;
+  color: #11999e;
+}
+#profession
+{
+color: #66bfbf;
+font-size: 2.5rem;
+position: relative;
+bottom: 100px;
+}
+.mddle-container
+{
+  background-color: #E4F9F5;
+
+}
+.mountain
+{
+position: relative;
+bottom: 90px;
+
+
+}
+p
+{
+   
+
+   
+}
+.skill-row
+{
+ text-align: left;
+  width: 50%; 
+margin: 100px auto;
+
+
+}
+.skill-img
+{
+ padding: 25px;
+  width: 25%;
+  float: right;
+}
+
+.top-container
+{
+  margin: 0;
+   background-color: #E4F9F5;
+   padding-top: 260px;
+}
+#greet
+{
+ font-size: 50px;
+ padding: 20px;
+
+}
+.chilly
+
+{
+  float: left;
+  width: 30%;
+}
+.momo
+{
+  padding-top: 50px;
+}
+.highlighted
+{
+  color: #40514e;
+}
